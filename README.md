@@ -1,5 +1,3 @@
-# HTML-basics
-Basics of HTML from youtube course
 <!DOCTYPE html>
 <html>
   <head>
@@ -18,7 +16,7 @@ Basics of HTML from youtube course
     <iframe src="https://www.udemy.com/course/an-introduction-to-mechanical-engineering-solid-mechanics/" frameborder="0" width="800"<Sorry></iframe>
       <!--Put a website within a website-->
 
-  
+
   <input type="text" value="Enter your username"/>
   <input type="password"/>
      <!--Input regular text like username and input hidden text like password-->
